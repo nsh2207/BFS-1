@@ -1,0 +1,8 @@
+Time Complexity : O(n)
+Space Complexity : O(n)
+Did this code successfully run on Leetcode : Yes
+Any problem you faced while coding this : No
+
+
+Your code here along with comments explaining your approach in three sentences only
+Used simple BFS traversal over the tree and used NULL pointer as a seperator between the levels to break the tree into list of nodes
